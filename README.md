@@ -1,7 +1,7 @@
 # Slidely-AI_Task-2_Server
 SlidelyAI Task-2 creating a windows from in visual studio and this is it's backend server used to store and view records from it such as name, email, phone num, git link, etc.
 
-# Access Branch->Master
+# Access Branch->Master (Please access/ Go to the master branch as all the server code is present there and not in the main branch )
 
 
 
