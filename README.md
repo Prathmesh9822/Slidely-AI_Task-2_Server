@@ -20,7 +20,6 @@ This is a simple submission server built with Express and TypeScript. It allows 
 - npm (>= 6.x)
 
 ## Installation
-```
 
 1. **Clone the Repository**:
    ```bash
