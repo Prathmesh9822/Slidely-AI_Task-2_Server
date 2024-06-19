@@ -3,7 +3,7 @@ SlidelyAI Task-2 creating a windows from in visual studio and this is it's backe
 
 Certainly! Here's a consolidated `README.md` file for your project:
 
-```markdown
+
 # Submission Server
 
 This is a simple submission server built with Express and TypeScript. It allows users to submit form data, view submissions, and ping the server to check if it's running.
